@@ -1,4 +1,3 @@
-<img width="1920" height="957" alt="Main" src="https://github.com/user-attachments/assets/95651f92-664f-4dd6-be05-5b34622765da" />
 # Odesa Wave
 
 A modern transportation and city services application for Odesa, Ukraine. Built with React Native (Expo) frontend and FastAPI backend.
