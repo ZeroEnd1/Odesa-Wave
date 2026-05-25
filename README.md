@@ -30,11 +30,7 @@ A modern transportation and city services application for Odesa, Ukraine. Built 
 
 ## Screenshots
 
-_(Add screenshots here when available)_
-
-| Home Screen | Route Planner | Payments |
-|-------------|---------------|----------|
-| ![Home](screenshots/home.png) | ![Route](screenshots/route.png) | ![Payments](screenshots/payments.png) |
+<img width="1920" height="957" alt="Main" src="https://github.com/user-attachments/assets/4a75a928-8acd-4d26-b7cd-e3255907a5f9" />
 
 ## Installation
 
